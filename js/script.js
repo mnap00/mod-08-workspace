@@ -1,5 +1,7 @@
 // script.js
 
 var name = prompt('Enter your name');
-alert('Hello, ' + name);
+// turn off popup window
+// alert('Hello, ' + name);
+// leave console printing
 console.log('Hello, ' + name);
